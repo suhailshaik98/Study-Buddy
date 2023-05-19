@@ -23,6 +23,6 @@ Study Buddy is an Android application that enhances the study experience by util
 
 Study Buddy aims to enhance productivity and concentration during study sessions by leveraging the capabilities of sensors on Android devices. Experience the power of Study Buddy and unlock your full study potential.
 
-**GitHub Project Page:** [Study Buddy](https://github.com/yourusername/study-buddy)
+**GitHub Project Page:** [Study Buddy](https://github.com/suhailshaik98/Study-Buddy)
 
 Feel free to explore the repository for more details and potential use cases.
