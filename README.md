@@ -1,7 +1,28 @@
-The provided code is for an Android application called "Study Buddy" that utilizes various sensors to enhance the study experience. Let's summarize the functionality of the app based on the additional information provided:
+## Study Buddy App
 
-The main feature of the app is to sense the presence of true wireless earbuds cases, which contain strong magnets, using the magnetometer sensor. When the app detects a disturbance in the magnetic field, it assumes that the user has placed their earbuds case near the phone. In response, it initiates a Bluetooth pairing request to the user if Bluetooth is currently turned off. This allows for automatic pairing of the earbuds with the phone. Once the user accepts the Bluetooth request, the app plays calm and soothing music, creating a conducive environment for studying.
+Study Buddy is an Android application that enhances the study experience by utilizing various sensors on the device. It offers a range of features to create an ideal study environment.
 
-The app also utilizes the accelerometer and gyroscope sensors to monitor the orientation of the phone. If the phone is in landscape mode, the app automatically displays a full-screen clock, which can be helpful for keeping track of study time. When the phone is turned back to the vertical mode, the app reverts to showing options and values of the various sensors.
+### Features
 
-In summary, Study Buddy is an Android app that leverages the magnetometer sensor to detect the presence of true wireless earbuds cases. It initiates a Bluetooth pairing request if Bluetooth is turned off, allowing for convenient pairing of the earbuds with the phone. The app also utilizes the accelerometer and gyroscope sensors to provide additional features such as playing soothing music for studying and displaying a full-screen clock when the phone is in landscape mode. These features aim to enhance the study experience by creating a focused and calming environment.
+1. **True Wireless Earbuds Detection**: Study Buddy utilizes the magnetometer sensor to detect disturbances in the magnetic field. When a true wireless earbuds case is detected nearby, the app automatically initiates a Bluetooth pairing request for seamless connectivity.
+
+2. **Automatic Bluetooth Pairing**: If Bluetooth is turned off, Study Buddy prompts the user to enable it. Upon accepting the Bluetooth request, the app automatically pairs with the earbuds, eliminating the need for manual pairing.
+
+3. **Soothing Music**: To create a serene study environment, Study Buddy plays calm and soothing music through the device's media player. This helps in reducing distractions and promoting focus during study sessions.
+
+4. **Orientation-based Features**: The app utilizes the accelerometer and gyroscope sensors to monitor the phone's orientation. In landscape mode, Study Buddy displays a full-screen clock, allowing users to keep track of study time efficiently.
+
+5. **Sensor Values Display**: When the phone is in portrait mode, Study Buddy provides real-time values of various sensors, including the magnetometer, accelerometer, proximity sensor, and light sensor. This information can be helpful for understanding the surrounding environment.
+
+### Benefits
+
+- Convenient Bluetooth pairing for true wireless earbuds cases.
+- Calm and soothing music to create an optimal study atmosphere.
+- Easy monitoring of study time with the full-screen clock in landscape mode.
+- Real-time sensor values for better awareness of the surrounding environment.
+
+Study Buddy aims to enhance productivity and concentration during study sessions by leveraging the capabilities of sensors on Android devices. Experience the power of Study Buddy and unlock your full study potential.
+
+**GitHub Project Page:** [Study Buddy](https://github.com/yourusername/study-buddy)
+
+Feel free to explore the repository for more details and potential use cases.
